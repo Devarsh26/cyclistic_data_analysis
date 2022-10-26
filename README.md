@@ -8,6 +8,10 @@ This repository contains a case study on a rental bike-company's dataset. Perfor
 
 - The dashboard was designed on Figma and built on Tableau.
 
+## Tableau Dashboard
+
+:link: https://public.tableau.com/app/profile/devarsh2381/viz/Cyclistic_16290484536960/Dashboard1 
+
 ## Dashboard Photos
 
 ![image](https://user-images.githubusercontent.com/68999346/198087024-6031d703-a881-4537-baa2-dfac0f9b5f50.png)
