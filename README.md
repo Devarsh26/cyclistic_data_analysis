@@ -1,11 +1,8 @@
-# cyclistic_data_analysis
-Performed data analysis for a rental bike-company and provided visualized insights through an interactive Tableau Dashboard and displayed the company’s cycle usage over various parameters. Implemented data cleaning, analysis, and visualization and provided eventual recommendations to maximize  usage.
-
-# COVID-19 Data Analysis
+# Cyclistic Data Analysis
 
 ## General
 
-This repository contains a case study on COVID-19 dataset. COVID-19 database was cleaned, organized, filtered, and queried. Results of the analysis were displayed on a dashboard by using Tableau.
+This repository contains a case study on a rental bike-company's dataset. Performed data analysis and provided visualized insights through an interactive Tableau Dashboard and displayed the company’s cycle usage over various parameters. Implemented data cleaning, analysis, and visualization and provided eventual recommendations to maximize usage.
 
 - SQL queries were written on Microsoft SQL Server.
 
@@ -13,12 +10,8 @@ This repository contains a case study on COVID-19 dataset. COVID-19 database was
 
 ## Dashboard Photos
 
-![image](https://user-images.githubusercontent.com/68999346/198082930-6bac7089-c1fc-4223-8ce5-f72e28b7e00a.png)
+![image](https://user-images.githubusercontent.com/68999346/198087024-6031d703-a881-4537-baa2-dfac0f9b5f50.png)
 --
-![image](https://user-images.githubusercontent.com/68999346/198083015-1eaacbd2-e1a6-4012-b9b5-5002e0d5b211.png)
---
-![image](https://user-images.githubusercontent.com/68999346/198083124-fdad899f-e5ec-435c-9e15-6392c4c5b0a7.png)
-
-
+![image](https://user-images.githubusercontent.com/68999346/198087142-b0304288-586e-4e9e-b405-1c14ccda668c.png)
 
 More in `Dashboard`.
